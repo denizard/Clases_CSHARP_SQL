@@ -10,6 +10,7 @@ namespace Clase0.ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Primer proyecto devmaster");
         }
     }
 }
